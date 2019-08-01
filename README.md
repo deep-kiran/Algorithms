@@ -9,4 +9,8 @@
 * Permutations
 * Letter Combinations of a Phone Number
 * Make Golf Course by removing obstacles
+## Pending
+* LCA binary tree
+* Circular Array Loop
+
 
