@@ -7,4 +7,5 @@
 ## Algorithms
 * Permutations
 * Letter Combinations of a Phone Number
+* Make Golf Course by removing obstacles
 
