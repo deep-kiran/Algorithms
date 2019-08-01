@@ -4,6 +4,7 @@
 * Employee Hierarchy
 * Sudoku Generator and Solver
 * Shorten URL
+* Design Trie
 ## Algorithms
 * Permutations
 * Letter Combinations of a Phone Number
