@@ -4,6 +4,7 @@
 * Employee Hierarchy
 * Sudoku Generator and Solver
 * Shorten URL
+* Design Hit Counter
 * Design Trie
 ## Algorithms
 * Permutations
