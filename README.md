@@ -14,5 +14,10 @@
 ## Pending
 * LCA binary tree
 * Circular Array Loop
+* BST Iterator
+* Sort Colours
+* Post order and preorder to construct binary tree
+* Trading algorithms
+* Inorder Successor
 
 
