@@ -9,6 +9,7 @@
 * Permutations
 * Letter Combinations of a Phone Number
 * Make Golf Course by removing obstacles
+* Meeting rooms 2
 ## Pending
 * LCA binary tree
 * Circular Array Loop
