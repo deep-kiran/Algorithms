@@ -14,6 +14,7 @@
 * Missing Ranges(very tricky test cases)
 * Zig Zag traversal of binary tree
 * Vertical Traversal of bt
+* Maze Solver
 ## Pending
 * LCA binary tree
 * Circular Array Loop
@@ -22,5 +23,6 @@
 * Post order and preorder to construct binary tree
 * Trading algorithms
 * Inorder Successor
+* 
 
 
