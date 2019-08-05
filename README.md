@@ -6,6 +6,7 @@
 * Shorten URL
 * Design Hit Counter
 * Design Trie
+* Two Sum
 ## Algorithms
 * Permutations
 * Letter Combinations of a Phone Number
