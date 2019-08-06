@@ -1,4 +1,5 @@
 class TicTacToe {
+
     char[][]board;
     int N;
     public void printBoard(char[][] board){
