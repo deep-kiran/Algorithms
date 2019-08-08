@@ -27,8 +27,7 @@ class StreamChecker {
     public StreamChecker(String[] words) {
         sb =new StringBuilder();
         buildTrie(words);
-    }
-    
+    }    
     public boolean query(char c) {
         sb.append(c);
         Trie p =root;
