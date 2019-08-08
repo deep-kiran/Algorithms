@@ -7,8 +7,10 @@
 * Design Hit Counter
 * Design Trie
 * Two Sum
+* Design Snake Game
 ## Algorithms
 * Permutations
+* Inorder Successor
 * Letter Combinations of a Phone Number
 * Make Golf Course by removing obstacles
 * Meeting rooms 2
@@ -16,6 +18,7 @@
 * Zig Zag traversal of binary tree
 * Vertical Traversal of bt
 * Maze Solver
+* Flip game 
 ## Pending
 * LCA binary tree
 * Circular Array Loop
@@ -23,7 +26,6 @@
 * Sort Colours
 * Post order and preorder to construct binary tree
 * Trading algorithms
-* Inorder Successor
 * 
 
 
