@@ -7,6 +7,7 @@
 * Design Hit Counter
 * Design Trie
 * Two Sum
+* Stream Checker
 * Design Snake Game
 ## Algorithms
 * Permutations
