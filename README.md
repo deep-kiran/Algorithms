@@ -20,6 +20,7 @@
 * Vertical Traversal of bt
 * Maze Solver
 * Flip game 
+* Connecting Cities (Kruskal's MST)
 ## Pending
 * LCA binary tree
 * Circular Array Loop
