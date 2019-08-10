@@ -21,6 +21,7 @@
 * Maze Solver
 * Flip game 
 * Connecting Cities (Kruskal's MST)
+* Count Connected Components
 ## Pending
 * LCA binary tree
 * Circular Array Loop
