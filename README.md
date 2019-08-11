@@ -20,6 +20,7 @@
 * Vertical Traversal of bt
 * Maze Solver
 * Flip game 
+* Encoded String
 * Connecting Cities (Kruskal's MST)
 * Count Connected Components
 ## Pending
