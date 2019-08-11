@@ -34,6 +34,7 @@ class Emp implements Comparable<Emp>{
  * in A',A'', A''',... is a boss of A. We would like to
  * implement a suitable tree data-structure so that we can implement the following operations :
  */
+
 public class EmployeeHier {
     Emp root;
     PriorityQueue<Emp> pq =new PriorityQueue<>();
