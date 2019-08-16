@@ -29,6 +29,7 @@
 * LCA binary tree
 * Circular Array Loop
 * BST Iterator
+* Game Theory
 * Post order and preorder to construct binary tree
 * Trading algorithms
 * 
