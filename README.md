@@ -25,6 +25,7 @@
 * Count Connected Components
 * Sort Colours
 * Unique paths
+
 ## Pending
 * LCA binary tree
 * Circular Array Loop
@@ -32,6 +33,7 @@
 * Game Theory
 * Post order and preorder to construct binary tree
 * Trading algorithms
-* 
+* Course Schedule
+* Course Schedule 2
 
 
