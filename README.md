@@ -10,13 +10,6 @@
 * Stream Checker
 * Design Snake Game
 ## Algorithms
-| First Header       | Second Header   |
-| ------------------ | --------------- |
-| Permutations       | Meeting rooms 2 |
-| Inorder Successor  | Content Cell    |
-
-|Letter Combinations of a Phone Number | Make Golf Course by removing obstacles |
-
 * Permutations
 * Inorder Successor
 * Letter Combinations of a Phone Number
