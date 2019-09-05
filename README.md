@@ -10,6 +10,10 @@
 * Stream Checker
 * Design Snake Game
 ## Algorithms
+| ------------- | --------------------- |
+| Permutations  | Inorder Successor     |
+|Letter Combinations of a Phone Number | Make Golf Course by removing obstacles |
+
 * Permutations
 * Inorder Successor
 * Letter Combinations of a Phone Number
