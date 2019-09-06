@@ -28,7 +28,6 @@
 * Optimal Capacity for Shipping
 * Boundary of bt
 ## Pending
-* LCA binary tree
 * Circular Array Loop
 * BST Iterator
 * Game Theory
